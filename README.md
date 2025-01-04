@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **DevOps.**
 
-- 👨‍💻 All of my projects are available at [https://rachitagarwal.vercel.app/](https://rachitagarwal.vercel.app/)
+- 👨‍💻 All of my projects are available at [personal website](https://rachitagarwal.vercel.app/)
 
 - 💬 Ask me about **Networking, Cyber Security, and Linux.**
 
