@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rachit Agarwal</h1>
-<h3 align="center">A passionate entry-level professional in the fields of Cyber Security and Networking from India 🇮🇳</h3>
+<h3 align="center">A passionate learner and trainee in the fields of Cyber Security and Networking from India 🇮🇳</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wolf1904&label=Profile%20views&color=0e75b6&style=flat" alt="wolf1904" /> </p>
 
