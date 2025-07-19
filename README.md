@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wolf1904" alt="wolf1904" /></a> </p>
 
-- 🔭 I’m currently working on **Java-based Project.**
+- 🔭 I’m currently working on **Troubleshooting**.
 
 - 🌱 I’m currently learning **Java, DevOps, Linux, Networking, and Cyber Security.**
 
