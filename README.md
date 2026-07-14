@@ -1,46 +1,39 @@
 <div align="center">
 
-```
-██████╗  █████╗  ██████╗██╗  ██╗██╗████████╗
-██╔══██╗██╔══██╗██╔════╝██║  ██║██║╚══██╔══╝
-██████╔╝███████║██║     ███████║██║   ██║   
-██╔══██╗██╔══██║██║     ██╔══██║██║   ██║   
-██║  ██║██║  ██║╚██████╗██║  ██║██║   ██║   
-╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝   ╚═╝   
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=140&section=header&text=RACHIT%20AGARWAL&fontSize=42&fontColor=9FEF00&fontAlignY=45&desc=Associate%20Software%20Engineer%20%7C%20Security%20Enthusiast&descAlignY=70&descSize=16&descColor=9FEF00" width="100%" />
 
 ### `whoami` → **Rachit Agarwal**
 ### `role` → Associate Software Engineer | Cybersecurity Enthusiast | DevSecOps Learner
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=800&color=9FEF00&center=true&vCenter=true&width=700&lines=root%40kali%3A~%23+nmap+-sV+target;Scanning+for+vulnerabilities...;Loading+DevSecOps+payload...;Java+%7C+Python+%7C+Bash+%7C+Linux;CTF+Player+%7C+HackTheBox+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=800&color=9FEF00&center=true&vCenter=true&width=700&lines=%24+git+log+--oneline+-5;%24+docker+ps+--filter+status%3Drunning;%24+kubectl+get+pods+-n+prod;%24+nmap+-sV+-p-+target;%24+echo+%22building+secure+systems%22" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=9FEF00)](https://rachitagarwal.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=9FEF00)](https://linkedin.com/in/rachit-agarwal-963773188)
 [![Gmail](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=9FEF00)](mailto:agarwalrachit1943@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/Wolf1904?label=FOLLOW&style=for-the-badge&color=000000&labelColor=000000)](https://github.com/Wolf1904)
 
-![](https://img.shields.io/badge/STATUS-ONLINE-9FEF00?style=for-the-badge&labelColor=000000)
-![](https://img.shields.io/badge/RANK-PWNER-9FEF00?style=for-the-badge&labelColor=000000)
-
 </div>
 
 <br>
 
 ```bash
-$ cat about_me.txt
+guest@rachit-agarwal:~$ neofetch
 ```
 
-- 🔭 Currently working as an **Associate Software Engineer**
-- 🌱 Learning **DevSecOps, Cloud Security, Java, Kubernetes, Docker**
-- 💻 Interested in **cybersecurity, networking, secure software development**
-- 🧠 Regularly popping boxes — **CTFs** and **HackTheBox** challenges
-- 📚 Published research: **Blockchain-based E-Waste Management**
-- ⚡ Daily driver: **Kali Linux**
+```yaml
+OS:            Kali Linux (daily driver)
+Role:          Associate Software Engineer
+Focus:         DevSecOps, Cloud Security, Secure Software Development
+Languages:     Java, Python, C++, C, JavaScript, Bash
+Currently:     Learning Kubernetes, Docker, Cloud Security
+Practice:      CTFs, HackTheBox
+Research:      Blockchain-based E-Waste Management (ICITEEB 2025)
+```
 
 <br>
 
 ```bash
-$ ls -la tech_stack/
+guest@rachit-agarwal:~$ ls -la tech_stack/
 ```
 
 <div align="center">
@@ -62,7 +55,7 @@ $ ls -la tech_stack/
 <br>
 
 ```bash
-$ ./run_toolkit.sh --list
+guest@rachit-agarwal:~$ ./run_toolkit.sh --list
 ```
 
 | Category | Tools |
@@ -75,12 +68,12 @@ $ ./run_toolkit.sh --list
 <br>
 
 ```bash
-$ find . -name "*.project" -type f
+guest@rachit-agarwal:~$ find . -name "*.project" -type f
 ```
 
 <div align="center">
 
-| Project | Payload |
+| Project | Description |
 |---|---|
 | 🎯 **CyberMatrix** | Cybersecurity educational platform built with Streamlit |
 | 🎯 **Troubleshooting Knowledge Base** | A structured collection of real-world system issues, their root causes, and practical solutions |
@@ -94,7 +87,7 @@ $ find . -name "*.project" -type f
 <br>
 
 ```bash
-$ cat research.log
+guest@rachit-agarwal:~$ cat research.log
 ```
 
 **AAVARTAK: Paving the Path for Sustainable E-Waste Management**
@@ -103,7 +96,7 @@ Accepted at **ICITEEB 2025** · Published as a **Chapter** with **Taylor & Franc
 <br>
 
 ```bash
-$ curl -s https://api.github.com/users/Wolf1904/stats
+guest@rachit-agarwal:~$ curl -s https://api.github.com/users/Wolf1904/stats
 ```
 
 <div align="center">
@@ -126,7 +119,7 @@ $ curl -s https://api.github.com/users/Wolf1904/stats
 <br>
 
 ```bash
-$ tail -f /var/log/current_focus.log
+guest@rachit-agarwal:~$ tail -f /var/log/current_focus.log
 ```
 
 - [x] Secure Software Development
@@ -138,11 +131,11 @@ $ tail -f /var/log/current_focus.log
 
 <br>
 
-<div align="center">
+```bash
+guest@rachit-agarwal:~$ echo "connection established — thanks for stopping by"
+```
 
-```
-[+] Connection established. Thanks for stopping by, hacker.
-```
+<div align="center">
 
 ![](https://komarev.com/ghpvc/?username=Wolf1904&style=for-the-badge&color=9FEF00&label=PROFILE+VIEWS)
 
