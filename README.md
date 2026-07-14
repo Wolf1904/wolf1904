@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=140&section=header&text=RACHIT%20AGARWAL&fontSize=42&fontColor=9FEF00&fontAlignY=45&desc=Associate%20Software%20Engineer%20%7C%20Security%20Enthusiast&descAlignY=70&descSize=16&descColor=9FEF00" width="100%" />
+<img src="./banner.svg" width="100%" />
 
 ### `whoami` → **Rachit Agarwal**
 ### `role` → Associate Software Engineer | Cybersecurity Enthusiast | DevSecOps Learner
