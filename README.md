@@ -1,32 +1,149 @@
-<h1 align="center">Hi 👋, I'm Rachit Agarwal</h1>
-<h3 align="center">A passionate learner and trainee in the fields of Cyber Security and Networking from India 🇮🇳</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wolf1904&label=Profile%20views&color=0e75b6&style=flat" alt="wolf1904" /> </p>
+```
+██████╗  █████╗  ██████╗██╗  ██╗██╗████████╗
+██╔══██╗██╔══██╗██╔════╝██║  ██║██║╚══██╔══╝
+██████╔╝███████║██║     ███████║██║   ██║   
+██╔══██╗██╔══██║██║     ██╔══██║██║   ██║   
+██║  ██║██║  ██║╚██████╗██║  ██║██║   ██║   
+╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝   ╚═╝   
+```
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wolf1904" alt="wolf1904" /></a> </p>
+### `whoami` → **Rachit Agarwal**
+### `role` → Associate Software Engineer | Cybersecurity Enthusiast | DevSecOps Learner
 
-- 🔭 I’m currently working on **Troubleshooting**.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=800&color=9FEF00&center=true&vCenter=true&width=700&lines=root%40kali%3A~%23+nmap+-sV+target;Scanning+for+vulnerabilities...;Loading+DevSecOps+payload...;Java+%7C+Python+%7C+Bash+%7C+Linux;CTF+Player+%7C+HackTheBox+Enthusiast" alt="Typing SVG" />
 
-- 🌱 I’m currently learning **Java, DevOps, Linux, Networking, and Cyber Security.**
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=9FEF00)](https://rachitagarwal.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=9FEF00)](https://linkedin.com/in/rachit-agarwal-963773188)
+[![Gmail](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=9FEF00)](mailto:agarwalrachit1943@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/Wolf1904?label=FOLLOW&style=for-the-badge&color=000000&labelColor=000000)](https://github.com/Wolf1904)
 
-- 🤝 I’m looking for help with **DevOps.**
+![](https://img.shields.io/badge/STATUS-ONLINE-9FEF00?style=for-the-badge&labelColor=000000)
+![](https://img.shields.io/badge/RANK-PWNER-9FEF00?style=for-the-badge&labelColor=000000)
 
-- 👨‍💻 All of my projects are available at [personal website](https://rachitagarwal.vercel.app/)
+</div>
 
-- 💬 Ask me about **Networking, Cyber Security, and Linux.**
+<br>
 
-- 📫 How to reach me **agarwalrachit1943@gmail.com**
+```bash
+$ cat about_me.txt
+```
 
-- ⚡ Fun fact **🎵 I'm passionate about music and love to immerse myself in melodies!**
+- 🔭 Currently working as an **Associate Software Engineer**
+- 🌱 Learning **DevSecOps, Cloud Security, Java, Kubernetes, Docker**
+- 💻 Interested in **cybersecurity, networking, secure software development**
+- 🧠 Regularly popping boxes — **CTFs** and **HackTheBox** challenges
+- 📚 Published research: **Blockchain-based E-Waste Management**
+- ⚡ Daily driver: **Kali Linux**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rachit-agarwal-963773188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rachit-agarwal-963773188" height="30" width="40" /></a>
-</p>
+<br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+```bash
+$ ls -la tech_stack/
+```
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wolf1904&show_icons=true&locale=en&layout=compact" alt="wolf1904" /></p>
+<div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wolf1904&show_icons=true&locale=en" alt="wolf1904" /></p>
+**// LANGUAGES**
+
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,html,css,bash&theme=dark" />
+
+**// DEVOPS**
+
+<img src="https://skillicons.dev/icons?i=docker,githubactions,git,linux&theme=dark" />
+
+**// DATABASE**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql&theme=dark" />
+
+</div>
+
+<br>
+
+```bash
+$ ./run_toolkit.sh --list
+```
+
+| Category | Tools |
+|---|---|
+| 🌐 Web Exploitation | `Burp Suite` `OWASP ZAP` |
+| 📡 Network Recon | `Nmap` `Wireshark` |
+| 🛡️ Code / Static Analysis | `SonarQube` |
+| 🔌 Network Simulation | `Cisco Packet Tracer` |
+
+<br>
+
+```bash
+$ find . -name "*.project" -type f
+```
+
+<div align="center">
+
+| Project | Payload |
+|---|---|
+| 🎯 **CyberMatrix** | Cybersecurity educational platform built with Streamlit |
+| 🎯 **Troubleshooting Knowledge Base** | A structured collection of real-world system issues, their root causes, and practical solutions |
+| 🎯 **DefenderBytes** | Java-based antivirus scanner |
+| 🎯 **TurboTrove** | Car dealership management system with CI/CD |
+
+</div>
+
+> Swap in your repo links so each project title points to its source.
+
+<br>
+
+```bash
+$ cat research.log
+```
+
+**AAVARTAK: Paving the Path for Sustainable E-Waste Management**
+Accepted at **ICITEEB 2025** · Published as a **Chapter** with **Taylor & Francis**
+
+<br>
+
+```bash
+$ curl -s https://api.github.com/users/Wolf1904/stats
+```
+
+<div align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Wolf1904&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wolf1904&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Wolf1904&theme=highcontrast&hide_border=true&background=0D1117&ring=9FEF00&fire=9FEF00&currStreakLabel=9FEF00" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Wolf1904&theme=react-dark&bg_color=0D1117&color=9FEF00&line=9FEF00&point=FFFFFF" />
+</div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Wolf1904&theme=onedark&row=1&column=7&no-bg=true" />
+</div>
+
+<br>
+
+```bash
+$ tail -f /var/log/current_focus.log
+```
+
+- [x] Secure Software Development
+- [x] DevSecOps
+- [x] Linux Administration
+- [x] Penetration Testing
+- [ ] Cloud Security
+- [ ] Reverse Engineering
+
+<br>
+
+<div align="center">
+
+```
+[+] Connection established. Thanks for stopping by, hacker.
+```
+
+![](https://komarev.com/ghpvc/?username=Wolf1904&style=for-the-badge&color=9FEF00&label=PROFILE+VIEWS)
+
+</div>
