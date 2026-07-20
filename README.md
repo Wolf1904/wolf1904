@@ -96,24 +96,11 @@ Accepted at **ICITEEB 2025** · Published as a **Chapter** with **Taylor & Franc
 <br>
 
 ```bash
-guest@rachit-agarwal:~$ curl -s https://api.github.com/users/Wolf1904/stats
+guest@rachit-agarwal:~$ ./skill_matrix.sh --verbose
 ```
-
+ 
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Wolf1904&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wolf1904&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Wolf1904&theme=highcontrast&hide_border=true&background=0D1117&ring=9FEF00&fire=9FEF00&currStreakLabel=9FEF00" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Wolf1904&theme=react-dark&bg_color=0D1117&color=9FEF00&line=9FEF00&point=FFFFFF" />
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Wolf1904&theme=onedark&row=1&column=7&no-bg=true" />
+<img src="./skill_matrix.svg" width="100%" />
 </div>
 
 <br>
